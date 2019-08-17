@@ -1,4 +1,4 @@
 # Auladevops
-Pasta criada para a matéria de Ambiente de Desenvolvimento e Operações (DevOps) no Impacta
-Felipe Chin Lau
-RA: 1900416
+Pasta criada para a matéria de Ambiente de Desenvolvimento e Operações (DevOps) no Impacta<br/>
+Felipe Chin Lau<br/>
+RA: 1900416<br/>
